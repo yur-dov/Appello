@@ -1,7 +1,7 @@
 .call_back{
     box-sizing: border-box;
     height: 1036px;
-    background-image: url(../../img/img-office.png);
+    background-image: url(../img/img-office.png);
     padding-top: 414px;
 }
 .call_back_box{
@@ -17,24 +17,24 @@
 .call_back_title{
     margin-bottom: 125px;
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 25px;
-line-height: 38px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
 }
 .btn_form{
     width: 174px;
-height: 60px;
-left: calc(50% - 174px/2);
-top: 481px;
-border: none;
-color:#FFFFFF;
-background: #0A8BFE;
-border-radius: 4px;
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
+    height: 60px;
+    left: calc(50% - 174px/2);
+    top: 481px;
+    border: none;
+    color:#FFFFFF;
+    background: #0A8BFE;
+    border-radius: 4px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
 .required{
     box-sizing: border-box;
     width: 500px;
