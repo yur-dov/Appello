@@ -1,0 +1,86 @@
+
+.about_title{
+    margin: auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 150px;
+    color: #000000;
+}
+.about_text{
+    margin-top: 35px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+    color: #737373;
+}
+.about_list_link{
+    margin-top: 85px;
+    display: flex;
+    align-items: center;justify-content: center;
+    margin-bottom: 50px;
+}
+.about_list_item:nth-last-child(-n + 2){
+    margin-left: 100px;
+}
+.about_link:hover{
+    cursor: pointer;
+    color: #0A8BFE;
+}
+.about_list_link > li > a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+.whatWeDo_list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -40px;
+    margin-left: -40px;
+}
+.whatWeDo_item{
+    width: 560px;
+    height: 220px;
+    border: 1px solid #E8E8E8;
+    box-sizing: border-box;
+    padding: 20px 40px 0 40px;
+    flex-basis: calc(100% / 2 - 40px);
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 40px;
+}
+.whatWeDo_item > h4{
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+}
+.whatWeDo_item > p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #737373;
+    padding-top: 23px;
+}
+.btn_about_contactUs{
+    display: block;
+    margin: auto; 
+    margin-top: 50px;  
+    background: #0A8BFE;
+    border-radius: 4px;
+    width: 174px;
+    height: 60px;
+    color: #fff;
+    border: none;
+    margin-bottom: 150px;
+}

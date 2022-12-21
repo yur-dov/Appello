@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto';
+}
+ul,
+p,
+h1,h2,h3,h4,h5{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    // color: #FFFFFF;
+    cursor: pointer;
+}
+.section{
+    width: 1440px;
+    margin: auto;
+}
+.container{
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    // border: 1px solid grey; 
+}
+button{
+    cursor: pointer;
+}

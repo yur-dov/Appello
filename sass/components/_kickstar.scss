@@ -1,0 +1,66 @@
+.kickstart{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.kickstart_title{
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 41px;
+    line-height: 50px;
+}
+.kickstart_text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 697px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 35px;
+    color: #737373;
+}
+.wrapp_slide{
+    outline: 1px solid #0A8BFE;
+    margin-top: 75px;
+}
+.kickstart_list{
+    display: flex;
+}
+.kickstart_item{
+    width: 200px;
+    height: 62px;
+    border: 2px solid #E8E8E8;
+    border-radius: 30px;
+    color: #0A8BFE;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 13px;
+}
+.kick_wrapp_btn{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 200px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.kick_btn_left{
+    width: 60px;
+    height: 60px;
+    border: none;
+    border-radius: 50%;
+    background-color: #fff;
+    background-image: url(../../img/kickstart-.svg);
+}
+.kick_btn_right{
+    width: 60px;
+    height: 60px;
+    border: none;
+    background-color: #fff;
+    background-image: url(../../img/kickstart+.svg);
+    border-radius: 50%;
+}

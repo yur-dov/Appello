@@ -1,0 +1,59 @@
+.call_back{
+    box-sizing: border-box;
+    height: 1036px;
+    background-image: url(../../img/img-office.png);
+    padding-top: 414px;
+}
+.call_back_box{
+    box-sizing: border-box;
+    height: 571px;
+    width: 600px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.05);
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;    
+}
+.call_back_title{
+    margin-bottom: 125px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+}
+.btn_form{
+    width: 174px;
+height: 60px;
+left: calc(50% - 174px/2);
+top: 481px;
+border: none;
+color:#FFFFFF;
+background: #0A8BFE;
+border-radius: 4px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.required{
+    box-sizing: border-box;
+    width: 500px;
+    height: 60px;
+    border: 1px solid #E8E8E8;
+    border-radius: 4px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+}
+.details{
+    box-sizing: border-box;
+    color: #000;
+    padding-left: 20px;
+    padding-top: 10px;
+    align-items: unset;
+    width: 500px;
+    height: 120px;
+    border: 1px solid #E8E8E8;
+    border-radius: 4px;
+    margin-bottom: 40px;
+    resize:none;
+}

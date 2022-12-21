@@ -1,0 +1,53 @@
+.experience_block{
+
+}
+.expCard{
+    // margin: -330px;
+    margin-top: -330px;
+}
+.expCard_list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -40px;
+    margin-left: -30px;
+}
+.expCard_item{
+    display: block;
+    box-sizing: border-box;
+    width: 545px;
+    height: 655px;
+    background-color: #fff;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.05);
+    padding: 10px 10px 0 10px;
+    margin-bottom: 30px;
+    flex-basis: calc(100% / 2 - 30px);
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.expCard_item img{
+    width: 545px;
+    height: 402px;
+}
+.btn_see_more{
+    width: 166px;
+    height: 60px;
+    background: #0A8BFE;
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.exp_title{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+}
+.exp_text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #737373;
+    margin-top: 15px;
+}
