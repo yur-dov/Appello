@@ -81,7 +81,7 @@ button {
   width: 91px;
   height: 30px;
   margin-right: 440px;
-  background-image: url(../img/logo_header.svg);
+  background-image: url(../../img/logo_header.svg);
 }
 
 .header_title {
@@ -701,7 +701,7 @@ button {
   height: 30px;
   border: none;
   border-radius: 50%;
-  background-image: url(../../img/faq_btn.png);
+  background-image: url(../img/faq_btn.png);
 }
 
 .kickstart {
