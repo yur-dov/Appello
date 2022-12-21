@@ -767,7 +767,7 @@ button {
   border: none;
   border-radius: 50%;
   background-color: #fff;
-  background-image: url(../../img/kickstart-.svg);
+  background-image: url(../img/kickstart-.svg);
 }
 
 .kick_btn_right {
@@ -775,7 +775,7 @@ button {
   height: 60px;
   border: none;
   background-color: #fff;
-  background-image: url(../../img/kickstart+.svg);
+  background-image: url(../img/kickstart+.svg);
   border-radius: 50%;
 }
 
